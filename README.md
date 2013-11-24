@@ -14,7 +14,7 @@ The Finnish National Gallery is the largest art museum organisation in Finland a
 
 Units of the Finnish National Gallery manage more than 36 000 artworks. The API is a web service used to acquire information about the artworks. The information source is Finnish National Gallery's master database Muusa. The API is developed and published to serve developers who wish to build applications, websites and mash-ups. In addition to the API, The Finnish National Gallery provides a data-package that contains all artwork information in a single data-file.
 
-The license of the published data is [Creative Commons CC0 1.0 Universal (CC0 1.0) http://creativecommons.org/publicdomain/zero/1.0/]. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
+The license of the published data is [Creative Commons CC0 1.0 Universal (CC0 1.0)](http://creativecommons.org/publicdomain/zero/1.0/). You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
 
 Both the API and the data-package have been released to encourage people to create new applications and services that are beyond our imagination and resources. If you want to ask a question, comment or share your work, please send email to api(at)fng.fi.
 
@@ -67,6 +67,6 @@ These terms of use are governed by the laws of Finland.
 
 
 
-* Copyrights of pictures © artists, photographer, other copyright holders, the Visual Artists' Copyright Society Kuvasto and the Finnish National Gallery. Should any questions arise concerning these copyrights, please contact the Finnish National Gallery for further information on the copyrights. Finnish National Gallery, Kaivokatu 2, 00100 Helsinki, Finland.
+\* Copyrights of pictures © artists, photographer, other copyright holders, the Visual Artists' Copyright Society Kuvasto and the Finnish National Gallery. Should any questions arise concerning these copyrights, please contact the Finnish National Gallery for further information on the copyrights. Finnish National Gallery, Kaivokatu 2, 00100 Helsinki, Finland.
 
-Pictures of the works of art can be subscribed for publication use from [the Photographic Service http://www.fng.fi/informationandresearch/photographicservice].
+Pictures of the works of art can be subscribed for publication use from [the Photographic Service](http://www.fng.fi/informationandresearch/photographicservice).
