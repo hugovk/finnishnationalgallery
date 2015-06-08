@@ -5,6 +5,7 @@
   "devDependencies": {
     "grunt": "^0.4.3",
     "grunt-jsonlint": "^1.0.4",
+    "grunt-xml-validator": "^1.1.1",
     "grunt-cli": "^0.1.13"
   },
   "scripts": {
