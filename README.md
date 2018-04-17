@@ -23,9 +23,29 @@ Both the API and the data-package have been released to encourage people to crea
 Change Log
 ==========
 
-2013-10-03 First release.
+2018-02-07 Updated data and downloadable data packages. Added image license information CC0.
+
+2017-03-28 Updated data and downloadable data packages.
+
+2016-02-17 Updated data and downloadable data packages.
+
+2015-10-06 Updated data and downloadable data packages. Changed subject identifier (SI) domain from www.muusa.net to kansallisgalleria.fi. This change affects most identifiers in the data.
+
+2015-06-17 Updated data and downloadable data packages.
+
+2015-03-11 Updated data and downloadable data packages.
+
+2014-11-21 Updated downloadable data packages.
+
+2014-02-18 Changed API request limit to 1 request per second.
+
+2014-02-18 Changed term "Valtion taidemuseo" to "Kansallisgalleria" in the documentation.
+
+2013-12-11 Added support for artist feeds. Now the API provides information about artists too. Updated downloable data packages.
 
 2013-10-18 Fixed the JSON data package and the JSON API feed. Fixed character encoding and added a JSON object wrapper around feeds.
+
+2013-10-03 First release.
 
 Download
 ========
