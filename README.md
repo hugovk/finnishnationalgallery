@@ -1,7 +1,7 @@
 Finnish National Gallery
 ========================
 
-[![Build Status](https://travis-ci.org/hugovk/finnishnationalgallery.svg?branch=master)](https://travis-ci.org/hugovk/finnishnationalgallery)
+[![Lint](https://github.com/hugovk/finnishnationalgallery/actions/workflows/lint.yml/badge.svg)](https://github.com/hugovk/finnishnationalgallery/actions/workflows/lint.yml)
 
 Dump of the Finnish National Gallery's complete data-package including all artwork information.
 
